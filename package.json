@@ -3,7 +3,7 @@
     "test": "esbuild --bundle test/index.js | tap-ssc"
   },
   "devDependencies": {
-    "@nichoth/tap-ssc": "^0.0.0",
+    "@nichoth/tap-ssc": "^0.0.5",
     "tapzero": "^0.6.1"
   }
 }
